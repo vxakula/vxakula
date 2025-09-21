@@ -11,5 +11,5 @@ I'm **Akula** – another Penetration Tester and passionate security researcher 
 - Reverse Engineering is my playground
 - Always learning, always cracking
 ```
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vxakulad&show_icons=true&theme=radical) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vxakula&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxakula&hide=TeX&layout=compact&theme=radical&cache_seconds=3600)
